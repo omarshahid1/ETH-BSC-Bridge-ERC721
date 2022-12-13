@@ -1,6 +1,6 @@
-Note: The instructions given below are for Ubuntu 22.04 LTS (users only).
+**Note: The instructions given below are for Ubuntu 22.04 LTS (users only).**
 
-Steps to run the project:
+**Steps to run the project:**
 
 1. This is a Truffle Project.
 
